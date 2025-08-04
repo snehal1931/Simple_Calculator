@@ -43,4 +43,3 @@ This is a basic command-line calculator program written in Python. It's a straig
 
 ---
 
-### Example
